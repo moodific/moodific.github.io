@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link href="https://moodific.com/rss.xml" rel="self" type="application/rss+xml" />
+		<title>Moodific</title>
+		<link>https://moodific.com</link>
+		<description>Funny stuff for you and gifts for friends - grab some funny t-shirts, hoodies and other wearable mood enhancers, joyful accessories for better home, hilarious stickers, phonecases and other items for more fun in the office and at work.</description>
+		<language>en-us</language>
+		<copyright>Copyright 2021 Moodific</copyright>
+		<pubDate>Wed, 02 Jun 2021 12:34:56 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Jun 2021 05:49:32 GMT</lastBuildDate>
+		<generator>https://moodific.com Site Generator</generator>
+		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+		<image>
+			<url>https://moodific.com/media/app/moodific-official-image-2560.png</url>
+			<title>Moodific</title>
+			<link>https://moodific.com</link>
+		</image>
+		<item>
+			<guid isPermaLink="true">https://moodific.com</guid>
+			<title></title>
+			<link>https://moodific.com</link>
+			<description></description>
+			<comments>https://moodific.com#comments</comments>
+			<pubDate>Wed, 02 Jun 2021 12:34:56 GMT</pubDate>
+		</item>
+		<item>
+			<guid isPermaLink="true">https://moodific.com</guid>
+			<title></title>
+			<link>https://moodific.com</link>
+			<description></description>
+			<comments>https://moodific.com#comments</comments>
+			<pubDate>Tue, 01 Jun 2021 12:34:56 GMT</pubDate>
+		</item>
+	</channel>
+</rss>

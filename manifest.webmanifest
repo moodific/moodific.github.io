@@ -1,0 +1,42 @@
+
+
+{
+	"short_name": "Moodific",
+	"name": "Moodific",
+	"description": "Funny stuff for you and gifts for friends - grab some funny t-shirts, hoodies and other wearable mood enhancers, joyful accessories for better home, hilarious stickers, phonecases and other items for more fun in the office and at work.",
+	"categories": ["entertainment", "lifestyle", "shopping"],
+	"lang": "en-US",
+	"icons": [
+		{
+			"src": "/media/app/moodific-app-icon-144.png",
+			"type": "image/png",
+			"sizes": "144x144",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/media/app/moodific-app-icon-180.png",
+			"type": "image/png",
+			"sizes": "180x180",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/media/app/moodific-app-icon-192.png",
+			"type": "image/png",
+			"sizes": "192x192",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/media/app/moodific-app-icon-512.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "any maskable"
+		}
+	],
+	"scope": "https://moodific.com/",
+	"start_url": "/?source=pwa",
+	"background_color": "#ffffff",
+	"theme_color": "#c53636",
+	"display": "standalone",
+	"orientation": "any"
+}
+
