@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://moodific.com/sitemap.xml.gz
+Sitemap: https://moodific.github.io/sitemap.xml.gz

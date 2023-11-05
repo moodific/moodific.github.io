@@ -32,7 +32,7 @@
 			"purpose": "any maskable"
 		}
 	],
-	"scope": "https://moodific.com/",
+	"scope": "https://moodific.github.io/",
 	"start_url": "/?source=pwa",
 	"background_color": "#ffffff",
 	"theme_color": "#c53636",
